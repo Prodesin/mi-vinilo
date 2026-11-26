@@ -1,0 +1,6366 @@
+{
+ "app": "mi-vinilo",
+ "version": 1,
+ "exportedAt": "2026-11-26T21:46:08.604128",
+ "prefs": {
+  "view": "grid",
+  "sort": "added",
+  "preferOld": false,
+  "recent": [],
+  "username": "jorge-ejemplo"
+ },
+ "meta": {
+  "lastSync": 1795553168604,
+  "lastSyncCount": 142,
+  "source": "api"
+ },
+ "collection": [
+  {
+   "key": "i80000000",
+   "id": 9000001,
+   "iid": 80000000,
+   "mid": 9500000,
+   "title": "Moanin'",
+   "year": 1959,
+   "artists": [
+    "Art Blakey & The Jazz Messengers"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "BLP 4003"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "12\"",
+      "Album",
+      "Reissue",
+      "Remastered"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Hard Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDQ0LDQ1JSwzOCUpJy8+PHJlY3QgeD0nOCcgeT0nOCcgd2lkdGg9Jzg0JyBoZWlnaHQ9Jzg0JyBmaWxsPSdub25lJyBzdHJva2U9J2hzbCg0NCw2MCUsODAlKScgc3Ryb2tlLXdpZHRoPScyJy8+PGNpcmNsZSBjeD0nNTAnIGN5PSc0Nicgcj0nMjQnIGZpbGw9J2hzbCg4NCw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5BQjwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2025-01-12T10:09:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000001",
+   "id": 9000008,
+   "iid": 80000001,
+   "mid": 9500001,
+   "title": "A Night in Tunisia",
+   "year": 1961,
+   "artists": [
+    "Art Blakey & The Jazz Messengers"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "BLP 4049"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Hard Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2026-07-31T10:04:00-08:00",
+   "rating": 3,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000002",
+   "id": 9000015,
+   "iid": 80000002,
+   "mid": 9500002,
+   "title": "Ugetsu",
+   "year": 1963,
+   "artists": [
+    "Art Blakey & The Jazz Messengers"
+   ],
+   "labels": [
+    {
+     "name": "Riverside",
+     "catno": "RLP 464"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Hard Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDIzNiw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMjM2LDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDI3Niw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5BQjwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2023-08-01T10:03:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000003",
+   "id": 9000022,
+   "iid": 80000003,
+   "mid": 9500003,
+   "title": "Kind of Blue",
+   "year": 1959,
+   "artists": [
+    "Miles Davis"
+   ],
+   "labels": [
+    {
+     "name": "Columbia",
+     "catno": "CS 8163"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "12\"",
+      "Album",
+      "Reissue",
+      "Remastered"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Modal"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2026-05-14T10:27:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "Prensado original, funda con desgaste",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000004",
+   "id": 9000029,
+   "iid": 80000004,
+   "mid": 9500004,
+   "title": "'Round About Midnight",
+   "year": 1957,
+   "artists": [
+    "Miles Davis"
+   ],
+   "labels": [
+    {
+     "name": "Columbia",
+     "catno": "CL 949"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "12\"",
+      "Album",
+      "Reissue",
+      "Remastered"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Hard Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDMwMyw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMzAzLDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDM0Myw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5NRDwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2025-07-02T10:05:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000005",
+   "id": 9000036,
+   "iid": 80000005,
+   "mid": 9500005,
+   "title": "Cookin'",
+   "year": 1957,
+   "artists": [
+    "Miles Davis"
+   ],
+   "labels": [
+    {
+     "name": "Prestige",
+     "catno": "PRLP 7094"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Hard Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2023-09-05T10:07:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000006",
+   "id": 9000043,
+   "iid": 80000006,
+   "mid": 9500006,
+   "title": "Relaxin'",
+   "year": 1958,
+   "artists": [
+    "Miles Davis"
+   ],
+   "labels": [
+    {
+     "name": "Prestige",
+     "catno": "PRLP 7129"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Hard Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDk5LDQ1JSwzOCUpJy8+PHJlY3QgeD0nOCcgeT0nOCcgd2lkdGg9Jzg0JyBoZWlnaHQ9Jzg0JyBmaWxsPSdub25lJyBzdHJva2U9J2hzbCg5OSw2MCUsODAlKScgc3Ryb2tlLXdpZHRoPScyJy8+PGNpcmNsZSBjeD0nNTAnIGN5PSc0Nicgcj0nMjQnIGZpbGw9J2hzbCgxMzksNzAlLDYwJSknLz48dGV4dCB4PSc1MCcgeT0nODgnIHRleHQtYW5jaG9yPSdtaWRkbGUnIGZvbnQtc2l6ZT0nMTEnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmaWxsPSd3aGl0ZSc+TUQ8L3RleHQ+PC9zdmc+",
+   "cover": "",
+   "added": "2023-05-02T10:37:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000007",
+   "id": 9000050,
+   "iid": 80000007,
+   "mid": 9500007,
+   "title": "Milestones",
+   "year": 1958,
+   "artists": [
+    "Miles Davis"
+   ],
+   "labels": [
+    {
+     "name": "Columbia",
+     "catno": "CL 1193"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Modal",
+    "Hard Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2023-07-26T10:25:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000008",
+   "id": 9000057,
+   "iid": 80000008,
+   "mid": 9500008,
+   "title": "Sketches of Spain",
+   "year": 1960,
+   "artists": [
+    "Miles Davis"
+   ],
+   "labels": [
+    {
+     "name": "Columbia",
+     "catno": "CS 8271"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Cool Jazz",
+    "Third Stream"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDM0Niw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMzQ2LDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDI2LDcwJSw2MCUpJy8+PHRleHQgeD0nNTAnIHk9Jzg4JyB0ZXh0LWFuY2hvcj0nbWlkZGxlJyBmb250LXNpemU9JzExJyBmb250LWZhbWlseT0nc2Fucy1zZXJpZicgZmlsbD0nd2hpdGUnPk1EPC90ZXh0Pjwvc3ZnPg==",
+   "cover": "",
+   "added": "2026-08-03T10:35:00-08:00",
+   "rating": 3,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000009",
+   "id": 9000064,
+   "iid": 80000009,
+   "mid": 9500009,
+   "title": "Bitches Brew",
+   "year": 1970,
+   "artists": [
+    "Miles Davis"
+   ],
+   "labels": [
+    {
+     "name": "Columbia",
+     "catno": "GP 26"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz",
+    "Rock"
+   ],
+   "styles": [
+    "Fusion"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2024-07-01T10:09:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000010",
+   "id": 9000071,
+   "iid": 80000010,
+   "mid": 9500010,
+   "title": "A Love Supreme",
+   "year": 1965,
+   "artists": [
+    "John Coltrane"
+   ],
+   "labels": [
+    {
+     "name": "Impulse!",
+     "catno": "A-77"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Free Jazz",
+    "Modal"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDEzNyw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMTM3LDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDE3Nyw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5KQzwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2025-02-13T10:35:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000011",
+   "id": 9000078,
+   "iid": 80000011,
+   "mid": 9500011,
+   "title": "Blue Train",
+   "year": 1958,
+   "artists": [
+    "John Coltrane"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "BLP 1577"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Hard Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2023-08-03T10:36:00-08:00",
+   "rating": 3,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000012",
+   "id": 9000085,
+   "iid": 80000012,
+   "mid": 9500012,
+   "title": "Giant Steps",
+   "year": 1960,
+   "artists": [
+    "John Coltrane"
+   ],
+   "labels": [
+    {
+     "name": "Atlantic",
+     "catno": "SD 1311"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Hard Bop",
+    "Post Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDI1OSw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMjU5LDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDI5OSw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5KQzwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2026-04-21T10:35:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000013",
+   "id": 9000092,
+   "iid": 80000013,
+   "mid": 9500013,
+   "title": "My Favorite Things",
+   "year": 1961,
+   "artists": [
+    "John Coltrane"
+   ],
+   "labels": [
+    {
+     "name": "Atlantic",
+     "catno": "SD 1361"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Modal"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2026-07-07T10:39:00-08:00",
+   "rating": 4,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000014",
+   "id": 9000099,
+   "iid": 80000014,
+   "mid": 9500014,
+   "title": "Ballads",
+   "year": 1963,
+   "artists": [
+    "John Coltrane"
+   ],
+   "labels": [
+    {
+     "name": "Impulse!",
+     "catno": "A-32"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "12\"",
+      "Album",
+      "Reissue",
+      "Remastered"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Cool Jazz"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDE5Niw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMTk2LDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDIzNiw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5KQzwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2023-01-13T10:34:00-08:00",
+   "rating": 3,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000015",
+   "id": 9000106,
+   "iid": 80000015,
+   "mid": 9500015,
+   "title": "Live at Birdland",
+   "year": 1964,
+   "artists": [
+    "John Coltrane"
+   ],
+   "labels": [
+    {
+     "name": "Impulse!",
+     "catno": "A-50"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "12\"",
+      "Album",
+      "Reissue",
+      "Remastered"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2024-03-28T10:37:00-08:00",
+   "rating": 3,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000016",
+   "id": 9000113,
+   "iid": 80000016,
+   "mid": 9500016,
+   "title": "John Coltrane and Johnny Hartman",
+   "year": 1963,
+   "artists": [
+    "John Coltrane & Johnny Hartman"
+   ],
+   "labels": [
+    {
+     "name": "Impulse!",
+     "catno": "A-40"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Vocal",
+    "Cool Jazz"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDI5NCw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMjk0LDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDMzNCw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5KQzwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2025-03-03T10:15:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000017",
+   "id": 9000120,
+   "iid": 80000017,
+   "mid": 9500017,
+   "title": "Saxophone Colossus",
+   "year": 1957,
+   "artists": [
+    "Sonny Rollins"
+   ],
+   "labels": [
+    {
+     "name": "Prestige",
+     "catno": "PRLP 7079"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Stereo"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Hard Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2025-06-25T10:05:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000018",
+   "id": 9000127,
+   "iid": 80000018,
+   "mid": 9500018,
+   "title": "Way Out West",
+   "year": 1957,
+   "artists": [
+    "Sonny Rollins"
+   ],
+   "labels": [
+    {
+     "name": "Contemporary",
+     "catno": "C 3530"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Stereo"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Hard Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDMyOCw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMzI4LDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDgsNzAlLDYwJSknLz48dGV4dCB4PSc1MCcgeT0nODgnIHRleHQtYW5jaG9yPSdtaWRkbGUnIGZvbnQtc2l6ZT0nMTEnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmaWxsPSd3aGl0ZSc+U1I8L3RleHQ+PC9zdmc+",
+   "cover": "",
+   "added": "2024-01-28T10:56:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000019",
+   "id": 9000134,
+   "iid": 80000019,
+   "mid": 9500019,
+   "title": "A Night at the Village Vanguard",
+   "year": 1958,
+   "artists": [
+    "Sonny Rollins"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "BLP 1581"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Hard Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2024-05-01T10:18:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000020",
+   "id": 9000141,
+   "iid": 80000020,
+   "mid": 9500020,
+   "title": "The Bridge",
+   "year": 1962,
+   "artists": [
+    "Sonny Rollins"
+   ],
+   "labels": [
+    {
+     "name": "RCA Victor",
+     "catno": "LSP-2527"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDE5Miw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMTkyLDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDIzMiw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5TUjwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2023-12-24T10:26:00-08:00",
+   "rating": 3,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000021",
+   "id": 9000148,
+   "iid": 80000021,
+   "mid": 9500021,
+   "title": "Brilliant Corners",
+   "year": 1957,
+   "artists": [
+    "Thelonious Monk"
+   ],
+   "labels": [
+    {
+     "name": "Riverside",
+     "catno": "RLP 12-226"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "12\"",
+      "Album",
+      "Reissue",
+      "Remastered"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Bop",
+    "Post Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2025-12-30T10:59:00-08:00",
+   "rating": 4,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000022",
+   "id": 9000155,
+   "iid": 80000022,
+   "mid": 9500022,
+   "title": "Monk's Dream",
+   "year": 1963,
+   "artists": [
+    "Thelonious Monk"
+   ],
+   "labels": [
+    {
+     "name": "Columbia",
+     "catno": "CS 8765"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDIsNDUlLDM4JSknLz48cmVjdCB4PSc4JyB5PSc4JyB3aWR0aD0nODQnIGhlaWdodD0nODQnIGZpbGw9J25vbmUnIHN0cm9rZT0naHNsKDIsNjAlLDgwJSknIHN0cm9rZS13aWR0aD0nMicvPjxjaXJjbGUgY3g9JzUwJyBjeT0nNDYnIHI9JzI0JyBmaWxsPSdoc2woNDIsNzAlLDYwJSknLz48dGV4dCB4PSc1MCcgeT0nODgnIHRleHQtYW5jaG9yPSdtaWRkbGUnIGZvbnQtc2l6ZT0nMTEnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmaWxsPSd3aGl0ZSc+VE08L3RleHQ+PC9zdmc+",
+   "cover": "",
+   "added": "2026-08-18T10:42:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000023",
+   "id": 9000162,
+   "iid": 80000023,
+   "mid": 9500023,
+   "title": "Genius of Modern Music, Vol. 1",
+   "year": 1952,
+   "artists": [
+    "Thelonious Monk"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "BLP 5002"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Stereo"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2023-08-21T10:50:00-08:00",
+   "rating": 3,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000024",
+   "id": 9000169,
+   "iid": 80000024,
+   "mid": 9500024,
+   "title": "Sunday at the Village Vanguard",
+   "year": 1961,
+   "artists": [
+    "Bill Evans Trio"
+   ],
+   "labels": [
+    {
+     "name": "Riverside",
+     "catno": "RLP 376"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "12\"",
+      "Album",
+      "Reissue",
+      "Remastered"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDE5NCw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMTk0LDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDIzNCw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5CRTwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2022-12-14T10:22:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000025",
+   "id": 9000176,
+   "iid": 80000025,
+   "mid": 9500025,
+   "title": "Waltz for Debby",
+   "year": 1962,
+   "artists": [
+    "Bill Evans Trio"
+   ],
+   "labels": [
+    {
+     "name": "Riverside",
+     "catno": "RLP 399"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2024-04-16T10:04:00-08:00",
+   "rating": 3,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000026",
+   "id": 9000183,
+   "iid": 80000026,
+   "mid": 9500026,
+   "title": "Everybody Digs Bill Evans",
+   "year": 1959,
+   "artists": [
+    "Bill Evans"
+   ],
+   "labels": [
+    {
+     "name": "Riverside",
+     "catno": "RLP 12-291"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDIwNiw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMjA2LDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDI0Niw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5CRTwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2024-03-11T10:44:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000027",
+   "id": 9000190,
+   "iid": 80000027,
+   "mid": 9500027,
+   "title": "Undercurrent",
+   "year": 1962,
+   "artists": [
+    "Bill Evans & Jim Hall"
+   ],
+   "labels": [
+    {
+     "name": "United Artists Jazz",
+     "catno": "UAJ 14003"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "12\"",
+      "Album",
+      "Reissue",
+      "Remastered"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2022-12-01T10:19:00-08:00",
+   "rating": 3,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000028",
+   "id": 9000197,
+   "iid": 80000028,
+   "mid": 9500028,
+   "title": "Time Out",
+   "year": 1959,
+   "artists": [
+    "Dave Brubeck Quartet"
+   ],
+   "labels": [
+    {
+     "name": "Columbia",
+     "catno": "CS 8192"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Stereo"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Cool Jazz"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDI4Niw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMjg2LDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDMyNiw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5EQjwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2022-10-31T10:24:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000029",
+   "id": 9000204,
+   "iid": 80000029,
+   "mid": 9500029,
+   "title": "Time Further Out",
+   "year": 1961,
+   "artists": [
+    "Dave Brubeck Quartet"
+   ],
+   "labels": [
+    {
+     "name": "Columbia",
+     "catno": "CS 8490"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Cool Jazz"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2024-04-05T10:22:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000030",
+   "id": 9000211,
+   "iid": 80000030,
+   "mid": 9500030,
+   "title": "Maiden Voyage",
+   "year": 1965,
+   "artists": [
+    "Herbie Hancock"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "BLP 4195"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDI4Myw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMjgzLDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDMyMyw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5ISDwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2026-03-12T10:31:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000031",
+   "id": 9000218,
+   "iid": 80000031,
+   "mid": 9500031,
+   "title": "Empyrean Isles",
+   "year": 1964,
+   "artists": [
+    "Herbie Hancock"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "BLP 4175"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2025-03-28T10:08:00-08:00",
+   "rating": 4,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000032",
+   "id": 9000225,
+   "iid": 80000032,
+   "mid": 9500032,
+   "title": "Head Hunters",
+   "year": 1973,
+   "artists": [
+    "Herbie Hancock"
+   ],
+   "labels": [
+    {
+     "name": "Columbia",
+     "catno": "KC 32731"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "12\"",
+      "Album",
+      "Reissue",
+      "Remastered"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz",
+    "Funk / Soul"
+   ],
+   "styles": [
+    "Jazz-Funk",
+    "Fusion"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDM1OSw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMzU5LDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDM5LDcwJSw2MCUpJy8+PHRleHQgeD0nNTAnIHk9Jzg4JyB0ZXh0LWFuY2hvcj0nbWlkZGxlJyBmb250LXNpemU9JzExJyBmb250LWZhbWlseT0nc2Fucy1zZXJpZicgZmlsbD0nd2hpdGUnPkhIPC90ZXh0Pjwvc3ZnPg==",
+   "cover": "",
+   "added": "2024-08-28T10:58:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000033",
+   "id": 9000232,
+   "iid": 80000033,
+   "mid": 9500033,
+   "title": "Takin' Off",
+   "year": 1962,
+   "artists": [
+    "Herbie Hancock"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "BLP 4109"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "12\"",
+      "Album",
+      "Reissue",
+      "Remastered"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Hard Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2025-12-01T10:28:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000034",
+   "id": 9000239,
+   "iid": 80000034,
+   "mid": 9500034,
+   "title": "Speak No Evil",
+   "year": 1966,
+   "artists": [
+    "Wayne Shorter"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "BLP 4194"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDIwOCw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMjA4LDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDI0OCw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5XUzwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2025-04-16T10:56:00-08:00",
+   "rating": 4,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000035",
+   "id": 9000246,
+   "iid": 80000035,
+   "mid": 9500035,
+   "title": "Juju",
+   "year": 1965,
+   "artists": [
+    "Wayne Shorter"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "BLP 4182"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "12\"",
+      "Album",
+      "Reissue",
+      "Remastered"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop",
+    "Modal"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2023-10-07T10:17:00-08:00",
+   "rating": 3,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000036",
+   "id": 9000253,
+   "iid": 80000036,
+   "mid": 9500036,
+   "title": "Night Dreamer",
+   "year": 1964,
+   "artists": [
+    "Wayne Shorter"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "BLP 4173"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "12\"",
+      "Album",
+      "Reissue",
+      "Remastered"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDEwNyw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMTA3LDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDE0Nyw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5XUzwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2023-01-08T10:56:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000037",
+   "id": 9000260,
+   "iid": 80000037,
+   "mid": 9500037,
+   "title": "The Sidewinder",
+   "year": 1964,
+   "artists": [
+    "Lee Morgan"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "BLP 4157"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Hard Bop",
+    "Soul-Jazz"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2026-01-01T10:05:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000038",
+   "id": 9000267,
+   "iid": 80000038,
+   "mid": 9500038,
+   "title": "Search for the New Land",
+   "year": 1966,
+   "artists": [
+    "Lee Morgan"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "BLP 4169"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDMzNCw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMzM0LDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDE0LDcwJSw2MCUpJy8+PHRleHQgeD0nNTAnIHk9Jzg4JyB0ZXh0LWFuY2hvcj0nbWlkZGxlJyBmb250LXNpemU9JzExJyBmb250LWZhbWlseT0nc2Fucy1zZXJpZicgZmlsbD0nd2hpdGUnPkxNPC90ZXh0Pjwvc3ZnPg==",
+   "cover": "",
+   "added": "2025-07-19T10:42:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000039",
+   "id": 9000274,
+   "iid": 80000039,
+   "mid": 9500039,
+   "title": "Candy",
+   "year": 1958,
+   "artists": [
+    "Lee Morgan"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "BLP 1590"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Hard Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2024-02-17T10:53:00-08:00",
+   "rating": 3,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000040",
+   "id": 9000281,
+   "iid": 80000040,
+   "mid": 9500040,
+   "title": "Song for My Father",
+   "year": 1965,
+   "artists": [
+    "Horace Silver Quintet"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "BLP 4185"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Hard Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDExNyw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMTE3LDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDE1Nyw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5IUzwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2025-04-08T10:00:00-08:00",
+   "rating": 4,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000041",
+   "id": 9000288,
+   "iid": 80000041,
+   "mid": 9500041,
+   "title": "Blowin' the Blues Away",
+   "year": 1959,
+   "artists": [
+    "Horace Silver"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "BLP 4017"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Stereo"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Hard Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2023-11-08T10:23:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000042",
+   "id": 9000295,
+   "iid": 80000042,
+   "mid": 9500042,
+   "title": "Somethin' Else",
+   "year": 1958,
+   "artists": [
+    "Cannonball Adderley"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "BLP 1595"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Hard Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDEzOSw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMTM5LDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDE3OSw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5DQTwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2022-12-23T10:54:00-08:00",
+   "rating": 4,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000043",
+   "id": 9000302,
+   "iid": 80000043,
+   "mid": 9500043,
+   "title": "Mercy, Mercy, Mercy! Live at The Club",
+   "year": 1966,
+   "artists": [
+    "Cannonball Adderley"
+   ],
+   "labels": [
+    {
+     "name": "Capitol",
+     "catno": "ST 2663"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "12\"",
+      "Album",
+      "Reissue",
+      "Remastered"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz",
+    "Funk / Soul"
+   ],
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2023-01-13T10:51:00-08:00",
+   "rating": 4,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000044",
+   "id": 9000309,
+   "iid": 80000044,
+   "mid": 9500044,
+   "title": "Mingus Ah Um",
+   "year": 1959,
+   "artists": [
+    "Charles Mingus"
+   ],
+   "labels": [
+    {
+     "name": "Columbia",
+     "catno": "CS 8171"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDgwLDQ1JSwzOCUpJy8+PHJlY3QgeD0nOCcgeT0nOCcgd2lkdGg9Jzg0JyBoZWlnaHQ9Jzg0JyBmaWxsPSdub25lJyBzdHJva2U9J2hzbCg4MCw2MCUsODAlKScgc3Ryb2tlLXdpZHRoPScyJy8+PGNpcmNsZSBjeD0nNTAnIGN5PSc0Nicgcj0nMjQnIGZpbGw9J2hzbCgxMjAsNzAlLDYwJSknLz48dGV4dCB4PSc1MCcgeT0nODgnIHRleHQtYW5jaG9yPSdtaWRkbGUnIGZvbnQtc2l6ZT0nMTEnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmaWxsPSd3aGl0ZSc+Q008L3RleHQ+PC9zdmc+",
+   "cover": "",
+   "added": "2024-08-11T10:25:00-08:00",
+   "rating": 4,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000045",
+   "id": 9000316,
+   "iid": 80000045,
+   "mid": 9500045,
+   "title": "The Black Saint and the Sinner Lady",
+   "year": 1963,
+   "artists": [
+    "Charles Mingus"
+   ],
+   "labels": [
+    {
+     "name": "Impulse!",
+     "catno": "A-35"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop",
+    "Avant-garde Jazz"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2023-04-17T10:25:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000046",
+   "id": 9000323,
+   "iid": 80000046,
+   "mid": 9500046,
+   "title": "Blues & Roots",
+   "year": 1960,
+   "artists": [
+    "Charles Mingus"
+   ],
+   "labels": [
+    {
+     "name": "Atlantic",
+     "catno": "SD 1305"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "12\"",
+      "Album",
+      "Reissue",
+      "Remastered"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Hard Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDEzOCw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMTM4LDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDE3OCw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5DTTwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2026-06-22T10:13:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000047",
+   "id": 9000330,
+   "iid": 80000047,
+   "mid": 9500047,
+   "title": "Bird and Diz",
+   "year": 1952,
+   "artists": [
+    "Charlie Parker"
+   ],
+   "labels": [
+    {
+     "name": "Clef Records",
+     "catno": "MGC 512"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2026-03-26T10:21:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000048",
+   "id": 9000337,
+   "iid": 80000048,
+   "mid": 9500048,
+   "title": "Dizzy Gillespie at Newport",
+   "year": 1957,
+   "artists": [
+    "Dizzy Gillespie"
+   ],
+   "labels": [
+    {
+     "name": "Verve",
+     "catno": "MGV 8242"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Big Band",
+    "Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDMyNSw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMzI1LDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDUsNzAlLDYwJSknLz48dGV4dCB4PSc1MCcgeT0nODgnIHRleHQtYW5jaG9yPSdtaWRkbGUnIGZvbnQtc2l6ZT0nMTEnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmaWxsPSd3aGl0ZSc+REc8L3RleHQ+PC9zdmc+",
+   "cover": "",
+   "added": "2026-11-06T10:36:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000049",
+   "id": 9000344,
+   "iid": 80000049,
+   "mid": 9500049,
+   "title": "Getz/Gilberto",
+   "year": 1964,
+   "artists": [
+    "Stan Getz & João Gilberto"
+   ],
+   "labels": [
+    {
+     "name": "Verve",
+     "catno": "V6-8545"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz",
+    "Latin"
+   ],
+   "styles": [
+    "Bossa Nova"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2026-04-13T10:23:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000050",
+   "id": 9000351,
+   "iid": 80000050,
+   "mid": 9500050,
+   "title": "Focus",
+   "year": 1962,
+   "artists": [
+    "Stan Getz"
+   ],
+   "labels": [
+    {
+     "name": "Verve",
+     "catno": "V6-8412"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "12\"",
+      "Album",
+      "Reissue",
+      "Remastered"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Third Stream"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDMzNCw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMzM0LDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDE0LDcwJSw2MCUpJy8+PHRleHQgeD0nNTAnIHk9Jzg4JyB0ZXh0LWFuY2hvcj0nbWlkZGxlJyBmb250LXNpemU9JzExJyBmb250LWZhbWlseT0nc2Fucy1zZXJpZicgZmlsbD0nd2hpdGUnPlNHPC90ZXh0Pjwvc3ZnPg==",
+   "cover": "",
+   "added": "2025-09-07T10:39:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000051",
+   "id": 9000358,
+   "iid": 80000051,
+   "mid": 9500051,
+   "title": "Jazz Samba",
+   "year": 1962,
+   "artists": [
+    "Stan Getz"
+   ],
+   "labels": [
+    {
+     "name": "Verve",
+     "catno": "V-8432"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Stereo"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz",
+    "Latin"
+   ],
+   "styles": [
+    "Bossa Nova"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2023-04-17T10:16:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000052",
+   "id": 9000365,
+   "iid": 80000052,
+   "mid": 9500052,
+   "title": "Money Jungle",
+   "year": 1963,
+   "artists": [
+    "Duke Ellington"
+   ],
+   "labels": [
+    {
+     "name": "United Artists Jazz",
+     "catno": "UAJ 14017"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDMxNyw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMzE3LDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDM1Nyw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5ERTwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2024-10-22T10:30:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000053",
+   "id": 9000372,
+   "iid": 80000053,
+   "mid": 9500053,
+   "title": "Duke Ellington & John Coltrane",
+   "year": 1963,
+   "artists": [
+    "Duke Ellington & John Coltrane"
+   ],
+   "labels": [
+    {
+     "name": "Impulse!",
+     "catno": "A-30"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "12\"",
+      "Album",
+      "Reissue",
+      "Remastered"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2024-02-11T10:29:00-08:00",
+   "rating": 4,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000054",
+   "id": 9000379,
+   "iid": 80000054,
+   "mid": 9500054,
+   "title": "Ellington at Newport 1956",
+   "year": 1956,
+   "artists": [
+    "Duke Ellington"
+   ],
+   "labels": [
+    {
+     "name": "Columbia",
+     "catno": "CL 934"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Big Band"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDkxLDQ1JSwzOCUpJy8+PHJlY3QgeD0nOCcgeT0nOCcgd2lkdGg9Jzg0JyBoZWlnaHQ9Jzg0JyBmaWxsPSdub25lJyBzdHJva2U9J2hzbCg5MSw2MCUsODAlKScgc3Ryb2tlLXdpZHRoPScyJy8+PGNpcmNsZSBjeD0nNTAnIGN5PSc0Nicgcj0nMjQnIGZpbGw9J2hzbCgxMzEsNzAlLDYwJSknLz48dGV4dCB4PSc1MCcgeT0nODgnIHRleHQtYW5jaG9yPSdtaWRkbGUnIGZvbnQtc2l6ZT0nMTEnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmaWxsPSd3aGl0ZSc+REU8L3RleHQ+PC9zdmc+",
+   "cover": "",
+   "added": "2025-02-06T10:05:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000055",
+   "id": 9000386,
+   "iid": 80000055,
+   "mid": 9500055,
+   "title": "Ella and Louis",
+   "year": 1956,
+   "artists": [
+    "Louis Armstrong & Ella Fitzgerald"
+   ],
+   "labels": [
+    {
+     "name": "Verve",
+     "catno": "MGV 4003"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Stereo"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Vocal",
+    "Swing"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2024-12-05T10:47:00-08:00",
+   "rating": 4,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000056",
+   "id": 9000393,
+   "iid": 80000056,
+   "mid": 9500056,
+   "title": "Ella Fitzgerald Sings the Cole Porter Song Book",
+   "year": 1956,
+   "artists": [
+    "Ella Fitzgerald"
+   ],
+   "labels": [
+    {
+     "name": "Verve",
+     "catno": "MGV 4001"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Vocal"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDMyLDQ1JSwzOCUpJy8+PHJlY3QgeD0nOCcgeT0nOCcgd2lkdGg9Jzg0JyBoZWlnaHQ9Jzg0JyBmaWxsPSdub25lJyBzdHJva2U9J2hzbCgzMiw2MCUsODAlKScgc3Ryb2tlLXdpZHRoPScyJy8+PGNpcmNsZSBjeD0nNTAnIGN5PSc0Nicgcj0nMjQnIGZpbGw9J2hzbCg3Miw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5FRjwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2022-12-20T10:10:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000057",
+   "id": 9000400,
+   "iid": 80000057,
+   "mid": 9500057,
+   "title": "Lady in Satin",
+   "year": 1958,
+   "artists": [
+    "Billie Holiday"
+   ],
+   "labels": [
+    {
+     "name": "Columbia",
+     "catno": "CL 1157"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Vocal"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2023-11-21T10:23:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000058",
+   "id": 9000407,
+   "iid": 80000058,
+   "mid": 9500058,
+   "title": "Pastel Blues",
+   "year": 1965,
+   "artists": [
+    "Nina Simone"
+   ],
+   "labels": [
+    {
+     "name": "Philips",
+     "catno": "PHS 600-187"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz",
+    "Funk / Soul"
+   ],
+   "styles": [
+    "Vocal",
+    "Soul-Jazz"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDMyOCw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMzI4LDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDgsNzAlLDYwJSknLz48dGV4dCB4PSc1MCcgeT0nODgnIHRleHQtYW5jaG9yPSdtaWRkbGUnIGZvbnQtc2l6ZT0nMTEnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmaWxsPSd3aGl0ZSc+TlM8L3RleHQ+PC9zdmc+",
+   "cover": "",
+   "added": "2023-10-21T10:58:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000059",
+   "id": 9000414,
+   "iid": 80000059,
+   "mid": 9500059,
+   "title": "Sarah Vaughan with Clifford Brown",
+   "year": 1955,
+   "artists": [
+    "Sarah Vaughan"
+   ],
+   "labels": [
+    {
+     "name": "EmArcy",
+     "catno": "MG 36004"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Vocal",
+    "Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2025-03-06T10:41:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000060",
+   "id": 9000421,
+   "iid": 80000060,
+   "mid": 9500060,
+   "title": "Chet Baker Sings",
+   "year": 1956,
+   "artists": [
+    "Chet Baker"
+   ],
+   "labels": [
+    {
+     "name": "Pacific Jazz",
+     "catno": "PJ-1222"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Stereo"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Cool Jazz",
+    "Vocal"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDEwMiw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMTAyLDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDE0Miw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5DQjwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2025-05-21T10:33:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000061",
+   "id": 9000428,
+   "iid": 80000061,
+   "mid": 9500061,
+   "title": "Chet",
+   "year": 1959,
+   "artists": [
+    "Chet Baker"
+   ],
+   "labels": [
+    {
+     "name": "Riverside",
+     "catno": "RLP 12-299"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Cool Jazz"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2024-11-08T10:49:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000062",
+   "id": 9000435,
+   "iid": 80000062,
+   "mid": 9500062,
+   "title": "Night Lights",
+   "year": 1963,
+   "artists": [
+    "Gerry Mulligan"
+   ],
+   "labels": [
+    {
+     "name": "Philips",
+     "catno": "PHS 600-097"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Stereo"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Cool Jazz"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDI3NCw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMjc0LDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDMxNCw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5HTTwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2023-10-24T10:49:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000063",
+   "id": 9000442,
+   "iid": 80000063,
+   "mid": 9500063,
+   "title": "Clifford Brown and Max Roach",
+   "year": 1955,
+   "artists": [
+    "Clifford Brown & Max Roach"
+   ],
+   "labels": [
+    {
+     "name": "EmArcy",
+     "catno": "MG 36008"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Hard Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2025-08-07T10:39:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000064",
+   "id": 9000449,
+   "iid": 80000064,
+   "mid": 9500064,
+   "title": "We Insist! Freedom Now Suite",
+   "year": 1960,
+   "artists": [
+    "Max Roach"
+   ],
+   "labels": [
+    {
+     "name": "Candid",
+     "catno": "CJS 9002"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Free Jazz",
+    "Hard Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDE5Miw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMTkyLDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDIzMiw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5NUjwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2024-08-08T10:47:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000065",
+   "id": 9000456,
+   "iid": 80000065,
+   "mid": 9500065,
+   "title": "The Shape of Jazz to Come",
+   "year": 1959,
+   "artists": [
+    "Ornette Coleman"
+   ],
+   "labels": [
+    {
+     "name": "Atlantic",
+     "catno": "SD 1317"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Stereo"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Free Jazz"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2023-12-12T10:31:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000066",
+   "id": 9000463,
+   "iid": 80000066,
+   "mid": 9500066,
+   "title": "Free Jazz",
+   "year": 1961,
+   "artists": [
+    "Ornette Coleman"
+   ],
+   "labels": [
+    {
+     "name": "Atlantic",
+     "catno": "SD 1364"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Stereo"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Free Jazz"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDI4Miw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMjgyLDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDMyMiw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5PQzwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2026-09-08T10:01:00-08:00",
+   "rating": 4,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000067",
+   "id": 9000470,
+   "iid": 80000067,
+   "mid": 9500067,
+   "title": "Out to Lunch!",
+   "year": 1964,
+   "artists": [
+    "Eric Dolphy"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "BLP 4163"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Stereo"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Avant-garde Jazz",
+    "Post Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2025-05-25T10:12:00-08:00",
+   "rating": 4,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000068",
+   "id": 9000477,
+   "iid": 80000068,
+   "mid": 9500068,
+   "title": "Last Date",
+   "year": 1964,
+   "artists": [
+    "Eric Dolphy"
+   ],
+   "labels": [
+    {
+     "name": "Fontana",
+     "catno": "SRF 67084"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Stereo"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Avant-garde Jazz"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDI0OCw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMjQ4LDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDI4OCw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5FRDwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2022-10-18T10:22:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000069",
+   "id": 9000484,
+   "iid": 80000069,
+   "mid": 9500069,
+   "title": "Point of Departure",
+   "year": 1964,
+   "artists": [
+    "Andrew Hill"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "BLP 4167"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop",
+    "Avant-garde Jazz"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2025-08-12T10:06:00-08:00",
+   "rating": 4,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000070",
+   "id": 9000491,
+   "iid": 80000070,
+   "mid": 9500070,
+   "title": "Let Freedom Ring",
+   "year": 1963,
+   "artists": [
+    "Jackie McLean"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "BLP 4106"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Hard Bop",
+    "Free Jazz"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDMwMSw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMzAxLDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDM0MSw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5KTTwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2025-09-30T10:21:00-08:00",
+   "rating": 4,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000071",
+   "id": 9000498,
+   "iid": 80000071,
+   "mid": 9500071,
+   "title": "Bluesnik",
+   "year": 1961,
+   "artists": [
+    "Jackie McLean"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "BLP 4067"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Hard Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2023-05-08T10:57:00-08:00",
+   "rating": 4,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000072",
+   "id": 9000505,
+   "iid": 80000072,
+   "mid": 9500072,
+   "title": "Page One",
+   "year": 1963,
+   "artists": [
+    "Joe Henderson"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "BLP 4140"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Hard Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDIyOCw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMjI4LDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDI2OCw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5KSDwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2023-03-10T10:22:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000073",
+   "id": 9000512,
+   "iid": 80000073,
+   "mid": 9500073,
+   "title": "Mode for Joe",
+   "year": 1966,
+   "artists": [
+    "Joe Henderson"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "BLP 4227"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "12\"",
+      "Album",
+      "Reissue",
+      "Remastered"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2026-03-06T10:58:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000074",
+   "id": 9000519,
+   "iid": 80000074,
+   "mid": 9500074,
+   "title": "Hub-Tones",
+   "year": 1962,
+   "artists": [
+    "Freddie Hubbard"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "BLP 4115"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Hard Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDI4MCw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMjgwLDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDMyMCw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5GSDwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2025-09-24T10:30:00-08:00",
+   "rating": 4,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000075",
+   "id": 9000526,
+   "iid": 80000075,
+   "mid": 9500075,
+   "title": "Red Clay",
+   "year": 1970,
+   "artists": [
+    "Freddie Hubbard"
+   ],
+   "labels": [
+    {
+     "name": "CTI Records",
+     "catno": "CTI 6001"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz",
+    "Funk / Soul"
+   ],
+   "styles": [
+    "Soul-Jazz",
+    "Fusion"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2023-04-14T10:21:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000076",
+   "id": 9000533,
+   "iid": 80000076,
+   "mid": 9500076,
+   "title": "Go",
+   "year": 1962,
+   "artists": [
+    "Dexter Gordon"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "BLP 4112"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "12\"",
+      "Album",
+      "Reissue",
+      "Remastered"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Hard Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDIwNyw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMjA3LDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDI0Nyw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5ERzwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2024-08-18T10:29:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000077",
+   "id": 9000540,
+   "iid": 80000077,
+   "mid": 9500077,
+   "title": "Our Man in Paris",
+   "year": 1963,
+   "artists": [
+    "Dexter Gordon"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "BLP 4146"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Hard Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2026-05-17T10:46:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000078",
+   "id": 9000547,
+   "iid": 80000078,
+   "mid": 9500078,
+   "title": "Soul Station",
+   "year": 1960,
+   "artists": [
+    "Hank Mobley"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "BLP 4031"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Hard Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDI1NCw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMjU0LDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDI5NCw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5ITTwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2026-02-19T10:01:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000079",
+   "id": 9000554,
+   "iid": 80000079,
+   "mid": 9500079,
+   "title": "Roll Call",
+   "year": 1961,
+   "artists": [
+    "Hank Mobley"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "BLP 4058"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Hard Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2024-03-28T10:51:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000080",
+   "id": 9000561,
+   "iid": 80000080,
+   "mid": 9500080,
+   "title": "Idle Moments",
+   "year": 1965,
+   "artists": [
+    "Grant Green"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "BLP 4154"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Stereo"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Hard Bop",
+    "Soul-Jazz"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDEwNSw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMTA1LDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDE0NSw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5HRzwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2023-07-05T10:30:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000081",
+   "id": 9000568,
+   "iid": 80000081,
+   "mid": 9500081,
+   "title": "Midnight Blue",
+   "year": 1963,
+   "artists": [
+    "Kenny Burrell"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "BLP 4123"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Soul-Jazz",
+    "Hard Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2023-10-10T10:35:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000082",
+   "id": 9000575,
+   "iid": 80000082,
+   "mid": 9500082,
+   "title": "Back at the Chicken Shack",
+   "year": 1960,
+   "artists": [
+    "Jimmy Smith"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "BLP 4117"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz",
+    "Funk / Soul"
+   ],
+   "styles": [
+    "Soul-Jazz"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDE4Myw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMTgzLDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDIyMyw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5KUzwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2026-10-08T10:51:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000083",
+   "id": 9000582,
+   "iid": 80000083,
+   "mid": 9500083,
+   "title": "Root Down",
+   "year": 1972,
+   "artists": [
+    "Jimmy Smith"
+   ],
+   "labels": [
+    {
+     "name": "Verve",
+     "catno": "V6-8791"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz",
+    "Funk / Soul"
+   ],
+   "styles": [
+    "Soul-Jazz",
+    "Jazz-Funk"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2026-01-25T10:27:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000084",
+   "id": 9000589,
+   "iid": 80000084,
+   "mid": 9500084,
+   "title": "Unity",
+   "year": 1966,
+   "artists": [
+    "Larry Young"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "BLP 4221"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDIxLDQ1JSwzOCUpJy8+PHJlY3QgeD0nOCcgeT0nOCcgd2lkdGg9Jzg0JyBoZWlnaHQ9Jzg0JyBmaWxsPSdub25lJyBzdHJva2U9J2hzbCgyMSw2MCUsODAlKScgc3Ryb2tlLXdpZHRoPScyJy8+PGNpcmNsZSBjeD0nNTAnIGN5PSc0Nicgcj0nMjQnIGZpbGw9J2hzbCg2MSw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5MWTwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2026-09-10T10:16:00-08:00",
+   "rating": 3,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000085",
+   "id": 9000596,
+   "iid": 80000085,
+   "mid": 9500085,
+   "title": "Components",
+   "year": 1966,
+   "artists": [
+    "Bobby Hutcherson"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "BLP 4213"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Stereo"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2024-01-15T10:15:00-08:00",
+   "rating": 3,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000086",
+   "id": 9000603,
+   "iid": 80000086,
+   "mid": 9500086,
+   "title": "The Real McCoy",
+   "year": 1967,
+   "artists": [
+    "McCoy Tyner"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "BLP 4264"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Modal",
+    "Post Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDczLDQ1JSwzOCUpJy8+PHJlY3QgeD0nOCcgeT0nOCcgd2lkdGg9Jzg0JyBoZWlnaHQ9Jzg0JyBmaWxsPSdub25lJyBzdHJva2U9J2hzbCg3Myw2MCUsODAlKScgc3Ryb2tlLXdpZHRoPScyJy8+PGNpcmNsZSBjeD0nNTAnIGN5PSc0Nicgcj0nMjQnIGZpbGw9J2hzbCgxMTMsNzAlLDYwJSknLz48dGV4dCB4PSc1MCcgeT0nODgnIHRleHQtYW5jaG9yPSdtaWRkbGUnIGZvbnQtc2l6ZT0nMTEnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmaWxsPSd3aGl0ZSc+TVQ8L3RleHQ+PC9zdmc+",
+   "cover": "",
+   "added": "2023-10-19T10:26:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000087",
+   "id": 9000610,
+   "iid": 80000087,
+   "mid": 9500087,
+   "title": "Karma",
+   "year": 1969,
+   "artists": [
+    "Pharoah Sanders"
+   ],
+   "labels": [
+    {
+     "name": "Impulse!",
+     "catno": "AS-9181"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "12\"",
+      "Album",
+      "Reissue",
+      "Remastered"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Spiritual Jazz",
+    "Free Jazz"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2024-11-12T10:57:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000088",
+   "id": 9000617,
+   "iid": 80000088,
+   "mid": 9500088,
+   "title": "Journey in Satchidananda",
+   "year": 1971,
+   "artists": [
+    "Alice Coltrane"
+   ],
+   "labels": [
+    {
+     "name": "Impulse!",
+     "catno": "AS-9203"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "12\"",
+      "Album",
+      "Reissue",
+      "Remastered"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Spiritual Jazz"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDI3Nyw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMjc3LDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDMxNyw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5BQzwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2023-07-31T10:52:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000089",
+   "id": 9000624,
+   "iid": 80000089,
+   "mid": 9500089,
+   "title": "Ptah, the El Daoud",
+   "year": 1970,
+   "artists": [
+    "Alice Coltrane"
+   ],
+   "labels": [
+    {
+     "name": "Impulse!",
+     "catno": "AS-9196"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Spiritual Jazz"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2026-02-12T10:34:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000090",
+   "id": 9000631,
+   "iid": 80000090,
+   "mid": 9500090,
+   "title": "Winter in America",
+   "year": 1974,
+   "artists": [
+    "Gil Scott-Heron & Brian Jackson"
+   ],
+   "labels": [
+    {
+     "name": "Strata-East",
+     "catno": "SES-19742"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "12\"",
+      "Album",
+      "Reissue",
+      "Remastered"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz",
+    "Funk / Soul"
+   ],
+   "styles": [
+    "Soul-Jazz",
+    "Spoken Word"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDE1Nyw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMTU3LDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDE5Nyw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5HUzwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2023-12-27T10:01:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000091",
+   "id": 9000638,
+   "iid": 80000091,
+   "mid": 9500091,
+   "title": "The Köln Concert",
+   "year": 1975,
+   "artists": [
+    "Keith Jarrett"
+   ],
+   "labels": [
+    {
+     "name": "ECM Records",
+     "catno": "ECM 1064/65 ST"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2023-06-09T10:00:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000092",
+   "id": 9000645,
+   "iid": 80000092,
+   "mid": 9500092,
+   "title": "Facing You",
+   "year": 1972,
+   "artists": [
+    "Keith Jarrett"
+   ],
+   "labels": [
+    {
+     "name": "ECM Records",
+     "catno": "ECM 1017 ST"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDMxMyw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMzEzLDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDM1Myw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5LSjwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2026-01-21T10:30:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000093",
+   "id": 9000652,
+   "iid": 80000093,
+   "mid": 9500093,
+   "title": "Witchi-Tai-To",
+   "year": 1974,
+   "artists": [
+    "Jan Garbarek"
+   ],
+   "labels": [
+    {
+     "name": "ECM Records",
+     "catno": "ECM 1041 ST"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "12\"",
+      "Album",
+      "Reissue",
+      "Remastered"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2026-07-03T10:20:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000094",
+   "id": 9000659,
+   "iid": 80000094,
+   "mid": 9500094,
+   "title": "Offramp",
+   "year": 1982,
+   "artists": [
+    "Pat Metheny Group"
+   ],
+   "labels": [
+    {
+     "name": "ECM Records",
+     "catno": "ECM 1216"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Fusion",
+    "Contemporary Jazz"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDI4MCw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMjgwLDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDMyMCw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5QTTwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2023-09-16T10:03:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000095",
+   "id": 9000666,
+   "iid": 80000095,
+   "mid": 9500095,
+   "title": "Heavy Weather",
+   "year": 1977,
+   "artists": [
+    "Weather Report"
+   ],
+   "labels": [
+    {
+     "name": "Columbia",
+     "catno": "PC 34418"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz",
+    "Rock"
+   ],
+   "styles": [
+    "Fusion"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2025-04-18T10:02:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000096",
+   "id": 9000673,
+   "iid": 80000096,
+   "mid": 9500096,
+   "title": "Romantic Warrior",
+   "year": 1976,
+   "artists": [
+    "Return to Forever"
+   ],
+   "labels": [
+    {
+     "name": "Columbia",
+     "catno": "PC 34076"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz",
+    "Rock"
+   ],
+   "styles": [
+    "Fusion"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDEzMSw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMTMxLDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDE3MSw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5SVDwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2024-04-24T10:35:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000097",
+   "id": 9000680,
+   "iid": 80000097,
+   "mid": 9500097,
+   "title": "Bright Size Life",
+   "year": 1976,
+   "artists": [
+    "Pat Metheny"
+   ],
+   "labels": [
+    {
+     "name": "ECM Records",
+     "catno": "ECM 1073"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2024-05-13T10:20:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000098",
+   "id": 9000687,
+   "iid": 80000098,
+   "mid": 9500098,
+   "title": "Balladyna",
+   "year": 1976,
+   "artists": [
+    "Tomasz Stańko"
+   ],
+   "labels": [
+    {
+     "name": "ECM Records",
+     "catno": "ECM 1071"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "12\"",
+      "Album",
+      "Reissue",
+      "Remastered"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDkzLDQ1JSwzOCUpJy8+PHJlY3QgeD0nOCcgeT0nOCcgd2lkdGg9Jzg0JyBoZWlnaHQ9Jzg0JyBmaWxsPSdub25lJyBzdHJva2U9J2hzbCg5Myw2MCUsODAlKScgc3Ryb2tlLXdpZHRoPScyJy8+PGNpcmNsZSBjeD0nNTAnIGN5PSc0Nicgcj0nMjQnIGZpbGw9J2hzbCgxMzMsNzAlLDYwJSknLz48dGV4dCB4PSc1MCcgeT0nODgnIHRleHQtYW5jaG9yPSdtaWRkbGUnIGZvbnQtc2l6ZT0nMTEnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmaWxsPSd3aGl0ZSc+VFM8L3RleHQ+PC9zdmc+",
+   "cover": "",
+   "added": "2025-04-18T10:28:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000099",
+   "id": 9000694,
+   "iid": 80000099,
+   "mid": 9500099,
+   "title": "Fuente y Caudal",
+   "year": 1973,
+   "artists": [
+    "Paco de Lucía"
+   ],
+   "labels": [
+    {
+     "name": "Philips",
+     "catno": "6328 071"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Stereo"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz",
+    "Latin"
+   ],
+   "styles": [
+    "Flamenco"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2025-06-17T10:44:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000100",
+   "id": 9000701,
+   "iid": 80000100,
+   "mid": 9500100,
+   "title": "Hecho a Mano",
+   "year": 2014,
+   "artists": [
+    "Chano Domínguez"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "3731492"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "12\"",
+      "Album",
+      "Reissue",
+      "Remastered"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz",
+    "Latin"
+   ],
+   "styles": [
+    "Latin Jazz",
+    "Flamenco"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDMsNDUlLDM4JSknLz48cmVjdCB4PSc4JyB5PSc4JyB3aWR0aD0nODQnIGhlaWdodD0nODQnIGZpbGw9J25vbmUnIHN0cm9rZT0naHNsKDMsNjAlLDgwJSknIHN0cm9rZS13aWR0aD0nMicvPjxjaXJjbGUgY3g9JzUwJyBjeT0nNDYnIHI9JzI0JyBmaWxsPSdoc2woNDMsNzAlLDYwJSknLz48dGV4dCB4PSc1MCcgeT0nODgnIHRleHQtYW5jaG9yPSdtaWRkbGUnIGZvbnQtc2l6ZT0nMTEnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmaWxsPSd3aGl0ZSc+Q0Q8L3RleHQ+PC9zdmc+",
+   "cover": "",
+   "added": "2025-09-18T10:53:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000101",
+   "id": 9000708,
+   "iid": 80000101,
+   "mid": 9500101,
+   "title": "Catalonian Fire",
+   "year": 1974,
+   "artists": [
+    "Tete Montoliu"
+   ],
+   "labels": [
+    {
+     "name": "SteepleChase",
+     "catno": "SCS-1019"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "12\"",
+      "Album",
+      "Reissue",
+      "Remastered"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2024-07-06T10:07:00-08:00",
+   "rating": 4,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000102",
+   "id": 9000715,
+   "iid": 80000102,
+   "mid": 9500102,
+   "title": "Hairpin Circus",
+   "year": 1972,
+   "artists": [
+    "Masabumi Kikuchi"
+   ],
+   "labels": [
+    {
+     "name": "Nippon Columbia",
+     "catno": "YS-10029-AC"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Free Jazz",
+    "Fusion"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDE5MCw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMTkwLDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDIzMCw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5NSzwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2025-01-28T10:04:00-08:00",
+   "rating": 4,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000103",
+   "id": 9000722,
+   "iid": 80000103,
+   "mid": 9500103,
+   "title": "Matrix",
+   "year": 1972,
+   "artists": [
+    "Masabumi Kikuchi"
+   ],
+   "labels": [
+    {
+     "name": "Nippon Columbia",
+     "catno": "YS-10016-AC"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Stereo"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2026-06-10T10:13:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000104",
+   "id": 9000729,
+   "iid": 80000104,
+   "mid": 9500104,
+   "title": "Clay",
+   "year": 1974,
+   "artists": [
+    "Yosuke Yamashita Trio"
+   ],
+   "labels": [
+    {
+     "name": "Nippon Columbia",
+     "catno": "YX-7014-N"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Stereo"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Free Jazz"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDI4Niw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMjg2LDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDMyNiw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5ZWTwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2025-12-25T10:45:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000105",
+   "id": 9000736,
+   "iid": 80000105,
+   "mid": 9500105,
+   "title": "Mother",
+   "year": 1971,
+   "artists": [
+    "Yosuke Yamashita Trio"
+   ],
+   "labels": [
+    {
+     "name": "Nippon Columbia",
+     "catno": "YX-7002-N"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Free Jazz"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2025-06-06T10:56:00-08:00",
+   "rating": 4,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000106",
+   "id": 9000743,
+   "iid": 80000106,
+   "mid": 9500106,
+   "title": "Fuji",
+   "year": 1973,
+   "artists": [
+    "Terumasa Hino"
+   ],
+   "labels": [
+    {
+     "name": "Nippon Columbia",
+     "catno": "YX-7019-N"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Fusion",
+    "Free Jazz"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDMwOCw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMzA4LDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDM0OCw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5USDwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2025-08-14T10:47:00-08:00",
+   "rating": 4,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000107",
+   "id": 9000750,
+   "iid": 80000107,
+   "mid": 9500107,
+   "title": "Hino at Newport",
+   "year": 1973,
+   "artists": [
+    "Terumasa Hino"
+   ],
+   "labels": [
+    {
+     "name": "Nippon Columbia",
+     "catno": "YS-10096-AC"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2024-02-13T10:10:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000108",
+   "id": 9000757,
+   "iid": 80000108,
+   "mid": 9500108,
+   "title": "Round Trip",
+   "year": 1974,
+   "artists": [
+    "Sadao Watanabe"
+   ],
+   "labels": [
+    {
+     "name": "Nippon Columbia",
+     "catno": "YS-10043-AC"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "12\"",
+      "Album",
+      "Reissue",
+      "Remastered"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz",
+    "Latin"
+   ],
+   "styles": [
+    "Bossa Nova",
+    "Fusion"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDE3Nyw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMTc3LDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDIxNyw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5TVzwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2022-11-21T10:27:00-08:00",
+   "rating": 3,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000109",
+   "id": 9000764,
+   "iid": 80000109,
+   "mid": 9500109,
+   "title": "Sadao Watanabe",
+   "year": 1971,
+   "artists": [
+    "Sadao Watanabe"
+   ],
+   "labels": [
+    {
+     "name": "Nippon Columbia",
+     "catno": "YS-10025-AC"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Stereo"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2024-06-27T10:12:00-08:00",
+   "rating": 3,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000110",
+   "id": 9000771,
+   "iid": 80000110,
+   "mid": 9500110,
+   "title": "Long Yellow Road",
+   "year": 1975,
+   "artists": [
+    "Toshiko Akiyoshi"
+   ],
+   "labels": [
+    {
+     "name": "RCA",
+     "catno": "RVJ-6038"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Stereo"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Big Band",
+    "Post Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDI5Miw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMjkyLDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDMzMiw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5UQTwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2026-05-02T10:46:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000111",
+   "id": 9000778,
+   "iid": 80000111,
+   "mid": 9500111,
+   "title": "Insights",
+   "year": 1976,
+   "artists": [
+    "Toshiko Akiyoshi - Lew Tabackin Big Band"
+   ],
+   "labels": [
+    {
+     "name": "RCA",
+     "catno": "RVP-6200"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "12\"",
+      "Album",
+      "Reissue",
+      "Remastered"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Big Band"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2024-12-14T10:35:00-08:00",
+   "rating": 4,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000112",
+   "id": 9000785,
+   "iid": 80000112,
+   "mid": 9500112,
+   "title": "Mt. Fuji (Live at Mt. Fuji)",
+   "year": 1975,
+   "artists": [
+    "Hiromasa Suzuki"
+   ],
+   "labels": [
+    {
+     "name": "Nippon Columbia",
+     "catno": "YX-7040-N"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "12\"",
+      "Album",
+      "Reissue",
+      "Remastered"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDI5LDQ1JSwzOCUpJy8+PHJlY3QgeD0nOCcgeT0nOCcgd2lkdGg9Jzg0JyBoZWlnaHQ9Jzg0JyBmaWxsPSdub25lJyBzdHJva2U9J2hzbCgyOSw2MCUsODAlKScgc3Ryb2tlLXdpZHRoPScyJy8+PGNpcmNsZSBjeD0nNTAnIGN5PSc0Nicgcj0nMjQnIGZpbGw9J2hzbCg2OSw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5IUzwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2022-11-27T10:01:00-08:00",
+   "rating": 3,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000113",
+   "id": 9000792,
+   "iid": 80000113,
+   "mid": 9500113,
+   "title": "Blow Up",
+   "year": 1973,
+   "artists": [
+    "Isao Suzuki Trio"
+   ],
+   "labels": [
+    {
+     "name": "Three Blind Mice",
+     "catno": "TBM-U-3003"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Stereo"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2023-12-13T10:39:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000114",
+   "id": 9000799,
+   "iid": 80000114,
+   "mid": 9500114,
+   "title": "Blow Up (Reissue)",
+   "year": 1973,
+   "artists": [
+    "Isao Suzuki Quartet"
+   ],
+   "labels": [
+    {
+     "name": "Three Blind Mice",
+     "catno": "TBM-30"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDEyLDQ1JSwzOCUpJy8+PHJlY3QgeD0nOCcgeT0nOCcgd2lkdGg9Jzg0JyBoZWlnaHQ9Jzg0JyBmaWxsPSdub25lJyBzdHJva2U9J2hzbCgxMiw2MCUsODAlKScgc3Ryb2tlLXdpZHRoPScyJy8+PGNpcmNsZSBjeD0nNTAnIGN5PSc0Nicgcj0nMjQnIGZpbGw9J2hzbCg1Miw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5JUzwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2026-06-28T10:07:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000115",
+   "id": 9000806,
+   "iid": 80000115,
+   "mid": 9500115,
+   "title": "Midnight Sugar",
+   "year": 1974,
+   "artists": [
+    "Tsuyoshi Yamamoto Trio"
+   ],
+   "labels": [
+    {
+     "name": "Three Blind Mice",
+     "catno": "TBM-2509"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Stereo"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2026-05-18T10:16:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000116",
+   "id": 9000813,
+   "iid": 80000116,
+   "mid": 9500116,
+   "title": "Misty",
+   "year": 1974,
+   "artists": [
+    "Tsuyoshi Yamamoto Trio"
+   ],
+   "labels": [
+    {
+     "name": "Three Blind Mice",
+     "catno": "TBM-2526"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDM4LDQ1JSwzOCUpJy8+PHJlY3QgeD0nOCcgeT0nOCcgd2lkdGg9Jzg0JyBoZWlnaHQ9Jzg0JyBmaWxsPSdub25lJyBzdHJva2U9J2hzbCgzOCw2MCUsODAlKScgc3Ryb2tlLXdpZHRoPScyJy8+PGNpcmNsZSBjeD0nNTAnIGN5PSc0Nicgcj0nMjQnIGZpbGw9J2hzbCg3OCw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5UWTwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2025-10-31T10:17:00-08:00",
+   "rating": 4,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000117",
+   "id": 9000820,
+   "iid": 80000117,
+   "mid": 9500117,
+   "title": "Silver World",
+   "year": 1971,
+   "artists": [
+    "Hozan Yamamoto"
+   ],
+   "labels": [
+    {
+     "name": "Nippon Columbia",
+     "catno": "YS-10003-AC"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Stereo"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz",
+    "Folk, World, & Country"
+   ],
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2023-01-22T10:52:00-08:00",
+   "rating": 4,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000118",
+   "id": 9000827,
+   "iid": 80000118,
+   "mid": 9500118,
+   "title": "Tadataka Unno Trio",
+   "year": 1975,
+   "artists": [
+    "Tadataka Unno"
+   ],
+   "labels": [
+    {
+     "name": "Three Blind Mice",
+     "catno": "TBM-2511"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "12\"",
+      "Album",
+      "Reissue",
+      "Remastered"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDY0LDQ1JSwzOCUpJy8+PHJlY3QgeD0nOCcgeT0nOCcgd2lkdGg9Jzg0JyBoZWlnaHQ9Jzg0JyBmaWxsPSdub25lJyBzdHJva2U9J2hzbCg2NCw2MCUsODAlKScgc3Ryb2tlLXdpZHRoPScyJy8+PGNpcmNsZSBjeD0nNTAnIGN5PSc0Nicgcj0nMjQnIGZpbGw9J2hzbCgxMDQsNzAlLDYwJSknLz48dGV4dCB4PSc1MCcgeT0nODgnIHRleHQtYW5jaG9yPSdtaWRkbGUnIGZvbnQtc2l6ZT0nMTEnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmaWxsPSd3aGl0ZSc+VFU8L3RleHQ+PC9zdmc+",
+   "cover": "",
+   "added": "2026-01-05T10:34:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000119",
+   "id": 9000834,
+   "iid": 80000119,
+   "mid": 9500119,
+   "title": "Kylyn",
+   "year": 1979,
+   "artists": [
+    "Kazumi Watanabe"
+   ],
+   "labels": [
+    {
+     "name": "Denon",
+     "catno": "YX-7507-ND"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Stereo"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz",
+    "Rock"
+   ],
+   "styles": [
+    "Fusion"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2025-01-06T10:05:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000120",
+   "id": 9000841,
+   "iid": 80000120,
+   "mid": 9500120,
+   "title": "Silver Cycles",
+   "year": 1978,
+   "artists": [
+    "Takehiro Honda"
+   ],
+   "labels": [
+    {
+     "name": "Victor",
+     "catno": "SJX-20011"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "12\"",
+      "Album",
+      "Reissue",
+      "Remastered"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDg0LDQ1JSwzOCUpJy8+PHJlY3QgeD0nOCcgeT0nOCcgd2lkdGg9Jzg0JyBoZWlnaHQ9Jzg0JyBmaWxsPSdub25lJyBzdHJva2U9J2hzbCg4NCw2MCUsODAlKScgc3Ryb2tlLXdpZHRoPScyJy8+PGNpcmNsZSBjeD0nNTAnIGN5PSc0Nicgcj0nMjQnIGZpbGw9J2hzbCgxMjQsNzAlLDYwJSknLz48dGV4dCB4PSc1MCcgeT0nODgnIHRleHQtYW5jaG9yPSdtaWRkbGUnIGZvbnQtc2l6ZT0nMTEnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmaWxsPSd3aGl0ZSc+VEg8L3RleHQ+PC9zdmc+",
+   "cover": "",
+   "added": "2022-12-28T10:11:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000121",
+   "id": 9000848,
+   "iid": 80000121,
+   "mid": 9500121,
+   "title": "Mikio Masuda Trio",
+   "year": 1974,
+   "artists": [
+    "Mikio Masuda"
+   ],
+   "labels": [
+    {
+     "name": "East Wind",
+     "catno": "EW-8004"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2025-05-05T10:01:00-08:00",
+   "rating": 3,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000122",
+   "id": 9000855,
+   "iid": 80000122,
+   "mid": 9500122,
+   "title": "Masaru Imada Trio",
+   "year": 1975,
+   "artists": [
+    "Masaru Imada"
+   ],
+   "labels": [
+    {
+     "name": "East Wind",
+     "catno": "EW-8001"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDI5NCw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMjk0LDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDMzNCw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5NSTwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2026-05-19T10:38:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000123",
+   "id": 9000862,
+   "iid": 80000123,
+   "mid": 9500123,
+   "title": "Morning Picture",
+   "year": 1976,
+   "artists": [
+    "Yoshio Suzuki"
+   ],
+   "labels": [
+    {
+     "name": "East Wind",
+     "catno": "EW-8014"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2025-05-14T10:55:00-08:00",
+   "rating": 4,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000124",
+   "id": 9000869,
+   "iid": 80000124,
+   "mid": 9500124,
+   "title": "At the Room 427",
+   "year": 1970,
+   "artists": [
+    "Kōichi Matsukaze"
+   ],
+   "labels": [
+    {
+     "name": "East Wind",
+     "catno": "EW-7002"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "12\"",
+      "Album",
+      "Reissue",
+      "Remastered"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Free Jazz"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDgzLDQ1JSwzOCUpJy8+PHJlY3QgeD0nOCcgeT0nOCcgd2lkdGg9Jzg0JyBoZWlnaHQ9Jzg0JyBmaWxsPSdub25lJyBzdHJva2U9J2hzbCg4Myw2MCUsODAlKScgc3Ryb2tlLXdpZHRoPScyJy8+PGNpcmNsZSBjeD0nNTAnIGN5PSc0Nicgcj0nMjQnIGZpbGw9J2hzbCgxMjMsNzAlLDYwJSknLz48dGV4dCB4PSc1MCcgeT0nODgnIHRleHQtYW5jaG9yPSdtaWRkbGUnIGZvbnQtc2l6ZT0nMTEnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmaWxsPSd3aGl0ZSc+S008L3RleHQ+PC9zdmc+",
+   "cover": "",
+   "added": "2026-10-14T10:21:00-08:00",
+   "rating": 3,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000125",
+   "id": 9000876,
+   "iid": 80000125,
+   "mid": 9500125,
+   "title": "Sound of Sound",
+   "year": 1975,
+   "artists": [
+    "Hideo Shiraki"
+   ],
+   "labels": [
+    {
+     "name": "Toshiba EMI",
+     "catno": "TP-72046"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2023-05-13T10:08:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000126",
+   "id": 9000883,
+   "iid": 80000126,
+   "mid": 9500126,
+   "title": "Paddle Wheel",
+   "year": 1976,
+   "artists": [
+    "George Otsuka Trio"
+   ],
+   "labels": [
+    {
+     "name": "Paddle Wheel",
+     "catno": "K28P-6021"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDI4MCw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMjgwLDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDMyMCw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5HTzwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2022-11-14T10:15:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000127",
+   "id": 9000890,
+   "iid": 80000127,
+   "mid": 9500127,
+   "title": "Scenery",
+   "year": 1976,
+   "artists": [
+    "Ryo Fukui"
+   ],
+   "labels": [
+    {
+     "name": "Pony Canyon",
+     "catno": "PCJ-0009"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2025-05-19T10:03:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000128",
+   "id": 9000897,
+   "iid": 80000128,
+   "mid": 9500128,
+   "title": "Mellow Breeze",
+   "year": 1976,
+   "artists": [
+    "Naoya Matsuoka"
+   ],
+   "labels": [
+    {
+     "name": "King Records",
+     "catno": "K18P-9001"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Stereo"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Fusion"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDE1Myw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMTUzLDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDE5Myw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5OTTwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2025-02-06T10:40:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000129",
+   "id": 9000904,
+   "iid": 80000129,
+   "mid": 9500129,
+   "title": "Mu",
+   "year": 1977,
+   "artists": [
+    "Nobuyoshi Ino"
+   ],
+   "labels": [
+    {
+     "name": "Trio Records",
+     "catno": "PAP-9001"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "12\"",
+      "Album",
+      "Reissue",
+      "Remastered"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Free Jazz"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2025-09-11T10:18:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000130",
+   "id": 9000911,
+   "iid": 80000130,
+   "mid": 9500130,
+   "title": "Watarase",
+   "year": 1975,
+   "artists": [
+    "Fumio Itabashi"
+   ],
+   "labels": [
+    {
+     "name": "Trio Records",
+     "catno": "PAP-9033"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Stereo"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Free Jazz",
+    "Avant-garde Jazz"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDI3MCw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMjcwLDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDMxMCw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5GSTwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2023-01-30T10:11:00-08:00",
+   "rating": 3,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000131",
+   "id": 9000918,
+   "iid": 80000131,
+   "mid": 9500131,
+   "title": "Lupin the Third '78",
+   "year": 1978,
+   "artists": [
+    "Yuji Ohno Trio"
+   ],
+   "labels": [
+    {
+     "name": "Columbia",
+     "catno": "YX-7001"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz",
+    "Stage & Screen"
+   ],
+   "styles": [
+    "Contemporary Jazz"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2026-09-30T10:16:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000132",
+   "id": 9000925,
+   "iid": 80000132,
+   "mid": 9500132,
+   "title": "Kosuke Mine Quartet",
+   "year": 1976,
+   "artists": [
+    "Kosuke Mine"
+   ],
+   "labels": [
+    {
+     "name": "Three Blind Mice",
+     "catno": "TBM-2527"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Hard Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDMyNiw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMzI2LDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDYsNzAlLDYwJSknLz48dGV4dCB4PSc1MCcgeT0nODgnIHRleHQtYW5jaG9yPSdtaWRkbGUnIGZvbnQtc2l6ZT0nMTEnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmaWxsPSd3aGl0ZSc+S008L3RleHQ+PC9zdmc+",
+   "cover": "",
+   "added": "2026-09-30T10:46:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000133",
+   "id": 9000932,
+   "iid": 80000133,
+   "mid": 9500133,
+   "title": "Live at the Lighthouse",
+   "year": 1972,
+   "artists": [
+    "Elvin Jones"
+   ],
+   "labels": [
+    {
+     "name": "Blue Note",
+     "catno": "BN-LA015-F"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "12\"",
+      "Album",
+      "Reissue",
+      "Remastered"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Post Bop"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2024-03-09T10:15:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000134",
+   "id": 9000939,
+   "iid": 80000134,
+   "mid": 9500134,
+   "title": "We Get Requests",
+   "year": 1965,
+   "artists": [
+    "Oscar Peterson Trio"
+   ],
+   "labels": [
+    {
+     "name": "Verve",
+     "catno": "V6-8606"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "12\"",
+      "Album",
+      "Reissue",
+      "Remastered"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Swing",
+    "Bop"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDMzMyw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMzMzLDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDEzLDcwJSw2MCUpJy8+PHRleHQgeD0nNTAnIHk9Jzg4JyB0ZXh0LWFuY2hvcj0nbWlkZGxlJyBmb250LXNpemU9JzExJyBmb250LWZhbWlseT0nc2Fucy1zZXJpZicgZmlsbD0nd2hpdGUnPk9QPC90ZXh0Pjwvc3ZnPg==",
+   "cover": "",
+   "added": "2023-02-27T10:52:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000135",
+   "id": 9000946,
+   "iid": 80000135,
+   "mid": 9500135,
+   "title": "Night Train",
+   "year": 1963,
+   "artists": [
+    "Oscar Peterson"
+   ],
+   "labels": [
+    {
+     "name": "Verve",
+     "catno": "V6-8538"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "12\"",
+      "Album",
+      "Reissue",
+      "Remastered"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Swing"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2024-01-28T10:34:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000136",
+   "id": 9000953,
+   "iid": 80000136,
+   "mid": 9500136,
+   "title": "A Charlie Brown Christmas",
+   "year": 1965,
+   "artists": [
+    "Vince Guaraldi Trio"
+   ],
+   "labels": [
+    {
+     "name": "Fantasy",
+     "catno": "8431"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz",
+    "Stage & Screen"
+   ],
+   "styles": [
+    "Cool Jazz"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDY1LDQ1JSwzOCUpJy8+PHJlY3QgeD0nOCcgeT0nOCcgd2lkdGg9Jzg0JyBoZWlnaHQ9Jzg0JyBmaWxsPSdub25lJyBzdHJva2U9J2hzbCg2NSw2MCUsODAlKScgc3Ryb2tlLXdpZHRoPScyJy8+PGNpcmNsZSBjeD0nNTAnIGN5PSc0Nicgcj0nMjQnIGZpbGw9J2hzbCgxMDUsNzAlLDYwJSknLz48dGV4dCB4PSc1MCcgeT0nODgnIHRleHQtYW5jaG9yPSdtaWRkbGUnIGZvbnQtc2l6ZT0nMTEnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmaWxsPSd3aGl0ZSc+Vkc8L3RleHQ+PC9zdmc+",
+   "cover": "",
+   "added": "2025-02-14T10:44:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000137",
+   "id": 9000960,
+   "iid": 80000137,
+   "mid": 9500137,
+   "title": "But Not for Me: Live at the Pershing",
+   "year": 1958,
+   "artists": [
+    "Ahmad Jamal"
+   ],
+   "labels": [
+    {
+     "name": "Argo",
+     "catno": "LP 628"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz"
+   ],
+   "styles": [
+    "Cool Jazz"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2024-12-05T10:12:00-08:00",
+   "rating": 4,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000138",
+   "id": 9000967,
+   "iid": 80000138,
+   "mid": 9500138,
+   "title": "Space Is the Place",
+   "year": 1973,
+   "artists": [
+    "Sun Ra"
+   ],
+   "labels": [
+    {
+     "name": "Blue Thumb",
+     "catno": "BTS 41"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Reissue"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz",
+    "Funk / Soul"
+   ],
+   "styles": [
+    "Free Jazz",
+    "Afrofuturism"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDY2LDQ1JSwzOCUpJy8+PHJlY3QgeD0nOCcgeT0nOCcgd2lkdGg9Jzg0JyBoZWlnaHQ9Jzg0JyBmaWxsPSdub25lJyBzdHJva2U9J2hzbCg2Niw2MCUsODAlKScgc3Ryb2tlLXdpZHRoPScyJy8+PGNpcmNsZSBjeD0nNTAnIGN5PSc0Nicgcj0nMjQnIGZpbGw9J2hzbCgxMDYsNzAlLDYwJSknLz48dGV4dCB4PSc1MCcgeT0nODgnIHRleHQtYW5jaG9yPSdtaWRkbGUnIGZvbnQtc2l6ZT0nMTEnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJyBmaWxsPSd3aGl0ZSc+U1I8L3RleHQ+PC9zdmc+",
+   "cover": "",
+   "added": "2024-11-25T10:03:00-08:00",
+   "rating": 0,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000139",
+   "id": 9000974,
+   "iid": 80000139,
+   "mid": 9500139,
+   "title": "Emergency!",
+   "year": 1969,
+   "artists": [
+    "Tony Williams Lifetime"
+   ],
+   "labels": [
+    {
+     "name": "Polydor",
+     "catno": "24-4001"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Stereo"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Jazz",
+    "Rock"
+   ],
+   "styles": [
+    "Fusion"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2026-06-15T10:40:00-08:00",
+   "rating": 4,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000140",
+   "id": 9000981,
+   "iid": 80000140,
+   "mid": 9500140,
+   "title": "Hejira",
+   "year": 1976,
+   "artists": [
+    "Joni Mitchell"
+   ],
+   "labels": [
+    {
+     "name": "Asylum",
+     "catno": "7E-1087"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Rock",
+    "Jazz"
+   ],
+   "styles": [
+    "Folk Rock"
+   ],
+   "thumb": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMDAgMTAwJz48cmVjdCB3aWR0aD0nMTAwJyBoZWlnaHQ9JzEwMCcgZmlsbD0naHNsKDIwMSw0NSUsMzglKScvPjxyZWN0IHg9JzgnIHk9JzgnIHdpZHRoPSc4NCcgaGVpZ2h0PSc4NCcgZmlsbD0nbm9uZScgc3Ryb2tlPSdoc2woMjAxLDYwJSw4MCUpJyBzdHJva2Utd2lkdGg9JzInLz48Y2lyY2xlIGN4PSc1MCcgY3k9JzQ2JyByPScyNCcgZmlsbD0naHNsKDI0MSw3MCUsNjAlKScvPjx0ZXh0IHg9JzUwJyB5PSc4OCcgdGV4dC1hbmNob3I9J21pZGRsZScgZm9udC1zaXplPScxMScgZm9udC1mYW1pbHk9J3NhbnMtc2VyaWYnIGZpbGw9J3doaXRlJz5KTTwvdGV4dD48L3N2Zz4=",
+   "cover": "",
+   "added": "2025-12-07T10:03:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  },
+  {
+   "key": "i80000141",
+   "id": 9000988,
+   "iid": 80000141,
+   "mid": 9500141,
+   "title": "What's Going On",
+   "year": 1971,
+   "artists": [
+    "Marvin Gaye"
+   ],
+   "labels": [
+    {
+     "name": "Tamla",
+     "catno": "TS 310"
+    }
+   ],
+   "formats": [
+    {
+     "name": "Vinyl",
+     "descriptions": [
+      "LP",
+      "Album",
+      "Stereo"
+     ],
+     "qty": 1
+    }
+   ],
+   "genres": [
+    "Funk / Soul"
+   ],
+   "styles": [
+    "Soul"
+   ],
+   "thumb": "",
+   "cover": "",
+   "added": "2024-09-17T10:55:00-08:00",
+   "rating": 5,
+   "folder": 1,
+   "notes": "",
+   "gone": false,
+   "src": "api"
+  }
+ ],
+ "plays": [
+  {
+   "id": "s0",
+   "rid": 9000218,
+   "date": "2026-11-16",
+   "note": "",
+   "ts": 1700000000000
+  },
+  {
+   "id": "s1",
+   "rid": 9000407,
+   "date": "2026-11-23",
+   "note": "",
+   "ts": 1700000001000
+  },
+  {
+   "id": "s2",
+   "rid": 9000239,
+   "date": "2026-10-02",
+   "note": "",
+   "ts": 1700000002000
+  },
+  {
+   "id": "s3",
+   "rid": 9000232,
+   "date": "2026-11-06",
+   "note": "Cara A",
+   "ts": 1700000003000
+  },
+  {
+   "id": "s4",
+   "rid": 9000701,
+   "date": "2026-11-12",
+   "note": "",
+   "ts": 1700000004000
+  },
+  {
+   "id": "s5",
+   "rid": 9000029,
+   "date": "2026-11-16",
+   "note": "",
+   "ts": 1700000005000
+  },
+  {
+   "id": "s6",
+   "rid": 9000316,
+   "date": "2026-11-23",
+   "note": "",
+   "ts": 1700000006000
+  },
+  {
+   "id": "s7",
+   "rid": 9000295,
+   "date": "2026-10-29",
+   "note": "",
+   "ts": 1700000007000
+  },
+  {
+   "id": "s8",
+   "rid": 9000631,
+   "date": "2026-11-18",
+   "note": "Entero",
+   "ts": 1700000008000
+  },
+  {
+   "id": "s9",
+   "rid": 9000176,
+   "date": "2026-11-20",
+   "note": "Entero",
+   "ts": 1700000009000
+  },
+  {
+   "id": "s10",
+   "rid": 9000001,
+   "date": "2026-11-25",
+   "note": "Cara A",
+   "ts": 1700000010000
+  },
+  {
+   "id": "s11",
+   "rid": 9000078,
+   "date": "2026-11-24",
+   "note": "Cara B",
+   "ts": 1700000011000
+  },
+  {
+   "id": "s12",
+   "rid": 9000736,
+   "date": "2026-11-26",
+   "note": "Cara B",
+   "ts": 1700000012000
+  },
+  {
+   "id": "s13",
+   "rid": 9000015,
+   "date": "2026-11-16",
+   "note": "Cara A",
+   "ts": 1700000013000
+  },
+  {
+   "id": "s14",
+   "rid": 9000204,
+   "date": "2026-11-25",
+   "note": "Entero",
+   "ts": 1700000014000
+  },
+  {
+   "id": "s15",
+   "rid": 9000680,
+   "date": "2026-11-24",
+   "note": "Entero",
+   "ts": 1700000015000
+  },
+  {
+   "id": "s16",
+   "rid": 9000344,
+   "date": "2026-11-12",
+   "note": "Cara B",
+   "ts": 1700000016000
+  },
+  {
+   "id": "s17",
+   "rid": 9000134,
+   "date": "2026-11-16",
+   "note": "Entero",
+   "ts": 1700000017000
+  },
+  {
+   "id": "s18",
+   "rid": 9000127,
+   "date": "2026-11-26",
+   "note": "Entero",
+   "ts": 1700000018000
+  },
+  {
+   "id": "s19",
+   "rid": 9000379,
+   "date": "2026-11-24",
+   "note": "Entero",
+   "ts": 1700000019000
+  },
+  {
+   "id": "s20",
+   "rid": 9000659,
+   "date": "2026-11-26",
+   "note": "Entero",
+   "ts": 1700000020000
+  },
+  {
+   "id": "s21",
+   "rid": 9000204,
+   "date": "2026-11-25",
+   "note": "",
+   "ts": 1700000021000
+  },
+  {
+   "id": "s22",
+   "rid": 9000036,
+   "date": "2026-11-24",
+   "note": "Cara A",
+   "ts": 1700000022000
+  },
+  {
+   "id": "s23",
+   "rid": 9000092,
+   "date": "2026-10-29",
+   "note": "Cara B",
+   "ts": 1700000023000
+  },
+  {
+   "id": "s24",
+   "rid": 9000708,
+   "date": "2026-11-26",
+   "note": "",
+   "ts": 1700000024000
+  },
+  {
+   "id": "s25",
+   "rid": 9000687,
+   "date": "2026-11-20",
+   "note": "Cara B",
+   "ts": 1700000025000
+  },
+  {
+   "id": "s26",
+   "rid": 9000232,
+   "date": "2026-11-26",
+   "note": "Cara B",
+   "ts": 1700000026000
+  },
+  {
+   "id": "s27",
+   "rid": 9000057,
+   "date": "2026-11-25",
+   "note": "Entero",
+   "ts": 1700000027000
+  },
+  {
+   "id": "s28",
+   "rid": 9000057,
+   "date": "2026-08-28",
+   "note": "Cara A",
+   "ts": 1700000028000
+  },
+  {
+   "id": "s29",
+   "rid": 9000064,
+   "date": "2026-11-18",
+   "note": "",
+   "ts": 1700000029000
+  },
+  {
+   "id": "s30",
+   "rid": 9000183,
+   "date": "2026-11-20",
+   "note": "Cara B",
+   "ts": 1700000030000
+  },
+  {
+   "id": "s31",
+   "rid": 9000652,
+   "date": "2026-10-29",
+   "note": "",
+   "ts": 1700000031000
+  },
+  {
+   "id": "s32",
+   "rid": 9000638,
+   "date": "2026-11-16",
+   "note": "",
+   "ts": 1700000032000
+  },
+  {
+   "id": "s33",
+   "rid": 9000757,
+   "date": "2026-11-22",
+   "note": "",
+   "ts": 1700000033000
+  },
+  {
+   "id": "s34",
+   "rid": 9000743,
+   "date": "2026-11-24",
+   "note": "Cara A",
+   "ts": 1700000034000
+  },
+  {
+   "id": "s35",
+   "rid": 9000225,
+   "date": "2026-11-16",
+   "note": "Entero",
+   "ts": 1700000035000
+  },
+  {
+   "id": "s36",
+   "rid": 9000715,
+   "date": "2026-11-24",
+   "note": "",
+   "ts": 1700000036000
+  },
+  {
+   "id": "s37",
+   "rid": 9000638,
+   "date": "2026-11-26",
+   "note": "Cara B",
+   "ts": 1700000037000
+  },
+  {
+   "id": "s38",
+   "rid": 9000239,
+   "date": "2026-11-25",
+   "note": "",
+   "ts": 1700000038000
+  },
+  {
+   "id": "s39",
+   "rid": 9000645,
+   "date": "2026-11-16",
+   "note": "Entero",
+   "ts": 1700000039000
+  },
+  {
+   "id": "s40",
+   "rid": 9000253,
+   "date": "2026-10-02",
+   "note": "Cara B",
+   "ts": 1700000040000
+  },
+  {
+   "id": "s41",
+   "rid": 9000414,
+   "date": "2026-11-25",
+   "note": "Entero",
+   "ts": 1700000041000
+  },
+  {
+   "id": "s42",
+   "rid": 9000176,
+   "date": "2026-11-16",
+   "note": "",
+   "ts": 1700000042000
+  },
+  {
+   "id": "s43",
+   "rid": 9000631,
+   "date": "2026-11-26",
+   "note": "Cara A",
+   "ts": 1700000043000
+  },
+  {
+   "id": "s44",
+   "rid": 9000407,
+   "date": "2026-11-25",
+   "note": "Entero",
+   "ts": 1700000044000
+  },
+  {
+   "id": "s45",
+   "rid": 9000400,
+   "date": "2026-11-18",
+   "note": "Cara B",
+   "ts": 1700000045000
+  }
+ ]
+}

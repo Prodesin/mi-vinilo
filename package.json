@@ -1,0 +1,9 @@
+{
+  "name": "mi-vinilo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mi vinilo: PWA estática para consultar la colección de Discogs y apuntar escuchas.",
+  "type": "module",
+  "scripts": { "build": "node build.mjs", "watch": "node build.mjs --watch", "check": "tsc --noEmit -p ." },
+  "devDependencies": { "esbuild": "^0.25.0", "preact": "^10.26.0", "typescript": "^5.6.0" }
+}
