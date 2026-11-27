@@ -2,6 +2,7 @@ import { useEffect, useMemo, useRef, useState } from "preact/hooks";
 import type { Filters, Play, Rec, SortKey } from "./types";
 import { PS, countBy, countFilters, filterRecs, hasFilters, noFilters } from "./logic";
 import { S, addPlay, removePlay, restorePlay, setPrefs, undoLastPlay } from "./store";
+import { openApple, useApple } from "./apple";
 import { Cover, Icon, Select, Stars, toast } from "./ui";
 import { NB, agoDays, artistLine, catLine, fmtDate, fmtN, formatLine, fmtDateShort, labelLine, plural, today } from "./util";
 
@@ -151,6 +152,16 @@ export function PlayRow({ p, ctx }: { p: Play; ctx: Ctx }) {
   );
 }
 
+export function AppleBtn({ r }: { r: Rec }) {
+  const a = useApple(r);
+  return (
+    <a class="btn btn--apple" href={a.u} target="_blank" rel="noopener noreferrer" onClick={(e) => openApple(e, a.u)}>
+      <Icon name="note" size={20} />
+      <span class="btn__2"><span>Abrir en Apple Music</span>{a.t === "search" && !a.busy && <small>Buscar en Apple Music</small>}</span>
+    </a>
+  );
+}
+
 function Detail({ r, ctx, f, setF, close }: { r: Rec; ctx: Ctx; f: Filters; setF: (f: Filters) => void; close: () => void }) {
   const [date, setDate] = useState(today());
   const [note, setNote] = useState("");
@@ -203,7 +214,10 @@ function Detail({ r, ctx, f, setF, close }: { r: Rec; ctx: Ctx; f: Filters; setF
           <label class="field"><span class="field__l">Nota (cara A, B…)</span><input class="input" type="text" maxLength={120} placeholder="Opcional" value={note} onInput={(e) => setNote((e.target as HTMLInputElement).value)} /></label>
         </div>
       </div>
-      <a class="btn btn--block" href={`https://www.discogs.com/release/${r.id}`} target="_blank" rel="noopener noreferrer">Ver en Discogs <Icon name="ext" size={17} /></a>
+      <div class="links2">
+        <AppleBtn r={r} />
+        <a class="btn" href={`https://www.discogs.com/release/${r.id}`} target="_blank" rel="noopener noreferrer">Ver en Discogs <Icon name="ext" size={17} /></a>
+      </div>
       <section class="hist">
         <h3>Historial de escuchas <small>{mine.length ? plural(mine.length, "vez", "veces") : ""}</small></h3>
         {mine.length === 0 ? <p class="muted">Todavía no lo has apuntado.</p> : (

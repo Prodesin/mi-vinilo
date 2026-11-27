@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "preact/hooks";
 import type { Filters, Play } from "./types";
 import { Collection, Ctx } from "./collection";
-import { noFilters, playStats } from "./logic";
+import { noFilters, playStats, pruneFilters, pruneRandom } from "./logic";
 import { PlaysTab } from "./plays";
 import { RF, RandomTab, noRF } from "./random";
 import { SettingsTab } from "./settings";
@@ -97,6 +97,15 @@ export default function App() {
     const k = (e: KeyboardEvent) => { if (e.key === "Escape" && openId != null && !document.querySelector("dialog[open]")) close(); };
     window.addEventListener("keydown", k); return () => window.removeEventListener("keydown", k);
   });
+
+  // Tras sincronizar o importar, quita los filtros cuyo valor ya no existe (también en «Al azar»).
+  useEffect(() => {
+    if (!st.ready) return;
+    const nf = pruneFilters(f, st.records), nr = pruneRandom(rf, st.records);
+    if (nf) setF(nf);
+    if (nr) setRf(nr);
+    if (nf || nr) toast("Se ha quitado un filtro que ya no existe");
+  }, [st.records, st.ready, f, rf]);
 
   const ps = useMemo(() => playStats(st.plays), [st.plays]);
   const byId = useMemo(() => {

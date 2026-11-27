@@ -1,6 +1,6 @@
 import { useMemo, useState } from "preact/hooks";
 import type { Rec } from "./types";
-import { Ctx, quickPlay } from "./collection";
+import { AppleBtn, Ctx, quickPlay } from "./collection";
 import { countBy, decadeOf, pickRandom } from "./logic";
 import { S, setPrefs } from "./store";
 import { Cover, Icon, Select } from "./ui";
@@ -47,6 +47,7 @@ export function RandomTab({ ctx, rf, setRf, pick, setPick, done, setDone, goColl
                 <Icon name={done ? "check" : "play"} size={20} /> {done ? "Apuntado" : "Lo pongo"}</button>
               <button type="button" class="btn btn--big" onClick={go}><Icon name="shuffle" size={20} /> Otro</button>
               <button type="button" class="btn btn--big" onClick={() => ctx.open(cur.id)}>Ver ficha</button>
+              <AppleBtn r={cur} />
             </div>
           </div>
         ) : (

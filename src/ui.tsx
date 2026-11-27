@@ -19,6 +19,7 @@ const P: Record<string, ComponentChildren> = {
   edit: <><path d="M4 20h4L19 9l-4-4L4 16zM13.5 6.5l4 4" /></>,
   check: <><path d="m5 12.5 4.5 4.5L19 7.5" /></>,
   play: <><path d="M8 5v14l11-7z" /></>,
+  note: <><path d="M9 18V5l11-2v13" /><circle cx="6.5" cy="18" r="2.5" /><circle cx="17.5" cy="16" r="2.5" /></>,
   undo: <><path d="M9 14 4 9l5-5M4 9h10a6 6 0 0 1 0 12h-3" /></>,
 };
 export function Icon({ name, size = 24, sw = 1.9 }: { name: string; size?: number; sw?: number }) {

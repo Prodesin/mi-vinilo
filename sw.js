@@ -4,8 +4,8 @@
  * - Navegación: network-first con vuelta a la caché.
  * - Portadas (i.discogs.com): caché de ejecución aparte (COVER_CACHE), con límite; NO se borra al cambiar de versión.
  * - api.discogs.com: nunca se cachea aquí (la app guarda los datos en IndexedDB). */
-const CACHE_VERSION = 'v1';
-const APP_VERSION = '1.0.0';
+const CACHE_VERSION = 'v2';
+const APP_VERSION = '1.1.0';
 const PREFIX = 'mi-vinilo-';
 const SHELL_CACHE = `${PREFIX}shell-${CACHE_VERSION}`;
 const COVER_CACHE = `${PREFIX}portadas`;

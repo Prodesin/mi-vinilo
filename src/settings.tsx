@@ -164,7 +164,7 @@ function Backup({ onWiped }: { onWiped: () => void }) {
     <Card title="Copia de seguridad">
       <p class="muted">La copia incluye la colección, las escuchas y tus preferencias. <b>No incluye el token.</b></p>
       <div class="btn-row">
-        <button type="button" class="btn" onClick={() => { download(`mi-vinilo-${today()}.json`, JSON.stringify(buildBackup(), null, 1)); toast("Copia exportada"); }}>Exportar copia (JSON)</button>
+        <button type="button" class="btn" onClick={async () => { download(`mi-vinilo-${today()}.json`, JSON.stringify(await buildBackup(), null, 1)); toast("Copia exportada"); }}>Exportar copia (JSON)</button>
         <button type="button" class="btn" onClick={() => inp.current?.click()}>Importar copia…</button>
       </div>
       <input ref={inp} type="file" accept="application/json,.json" hidden onChange={onFile} />
@@ -245,7 +245,7 @@ export function SettingsTab({ onWiped }: { onWiped: () => void }) {
             <li><a href="https://prodesin.github.io/mi-menu/" target="_blank" rel="noopener noreferrer">Mi menú<small>Menús y compra</small></a></li>
           </ul>
         </Card>
-        <Card title="Privacidad"><p>Todo se guarda en este dispositivo. No hay cuentas, analítica ni rastreadores. La app solo se conecta a <b>api.discogs.com</b> (para sincronizar) e <b>i.discogs.com</b> (portadas).</p></Card>
+        <Card title="Privacidad"><p>Todo se guarda en este dispositivo. No hay cuentas, analítica ni rastreadores. La app solo se conecta a <b>api.discogs.com</b> (para sincronizar) e <b>i.discogs.com</b> (portadas). Para el enlace de Apple Music también consulta <b>itunes.apple.com</b>, enviando solo el artista y el título del disco.</p></Card>
         <About />
       </div>
     </div>

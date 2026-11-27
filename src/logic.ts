@@ -69,3 +69,23 @@ export function pickRandom(pool: Rec[], ps: Map<number, PS>, recent: number[], p
   for (let i = 0; i < from.length; i++) { x -= w[i]; if (x <= 0) return from[i]; }
   return from[from.length - 1];
 }
+
+/* Quita de los filtros los valores que ya no existen en la colección. Devuelve null si no hay nada que quitar. */
+export function pruneFilters(f: Filters, recs: Rec[]): Filters | null {
+  const has = {
+    genre: new Set(recs.flatMap((r) => r.genres)), style: new Set(recs.flatMap((r) => r.styles)), artist: new Set(recs.flatMap((r) => r.artists)),
+    label: new Set(recs.flatMap((r) => r.labels.map((l) => l.name))), format: new Set(recs.flatMap(formatTokens)),
+  };
+  const out = { ...f }; let ch = false;
+  for (const k of ["genre", "style", "artist", "label", "format"] as const) if (out[k] && !has[k].has(out[k])) { out[k] = ""; ch = true; }
+  return ch ? out : null;
+}
+export function pruneRandom<T extends { genre: string; style: string; artist: string; decade: string }>(f: T, recs: Rec[]): T | null {
+  const live = recs.filter((r) => !r.gone);
+  const out = { ...f }; let ch = false;
+  if (out.genre && !live.some((r) => r.genres.includes(out.genre))) { out.genre = ""; ch = true; }
+  if (out.style && !live.some((r) => r.styles.includes(out.style))) { out.style = ""; ch = true; }
+  if (out.artist && !live.some((r) => r.artists.includes(out.artist))) { out.artist = ""; ch = true; }
+  if (out.decade && !live.some((r) => decadeOf(r.year) === out.decade)) { out.decade = ""; ch = true; }
+  return ch ? out : null;
+}

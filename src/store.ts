@@ -3,6 +3,7 @@ import type { Meta, Play, Prefs, Rec } from "./types";
 import { dbDel, dbGet, dbSet } from "./db";
 import { fetchCollection, DiscogsError } from "./discogs";
 import { csvToRecs } from "./csv";
+import { getAppleCache, setAppleCache, wipeApple } from "./apple";
 import { cleanArtist, today, uid } from "./util";
 
 export const COVER_CACHE = "mi-vinilo-portadas";
@@ -96,10 +97,10 @@ export function importCsv(text: string): number {
 export function dropGone() { S.records = S.records.filter((r) => !r.gone); saveRecs(); emit(); }
 
 /* ---------- Copia de seguridad (SIN token) ---------- */
-export function buildBackup() {
-  return { app: "mi-vinilo", version: 1, exportedAt: new Date().toISOString(), prefs: S.prefs, meta: S.meta, collection: S.records, plays: S.plays };
+export async function buildBackup() {
+  return { app: "mi-vinilo", version: 1, exportedAt: new Date().toISOString(), prefs: S.prefs, meta: S.meta, collection: S.records, plays: S.plays, apple: await getAppleCache() };
 }
-export function validateBackup(x: any): { records: Rec[]; plays: Play[]; prefs: Partial<Prefs>; meta: Partial<Meta> } {
+export function validateBackup(x: any): { records: Rec[]; plays: Play[]; prefs: Partial<Prefs>; meta: Partial<Meta>; apple: unknown } {
   if (!x || typeof x !== "object" || x.app !== "mi-vinilo") throw new Error("Este archivo no es una copia de Mi vinilo.");
   if (!Array.isArray(x.collection) || !Array.isArray(x.plays)) throw new Error("La copia está incompleta (faltan la colección o las escuchas).");
   const records: Rec[] = [];
@@ -121,17 +122,17 @@ export function validateBackup(x: any): { records: Rec[]; plays: Play[]; prefs: 
   });
   const prefs = (x.prefs && typeof x.prefs === "object") ? { ...x.prefs } : {};
   delete (prefs as any).token;
-  return { records, plays, prefs, meta: x.meta && typeof x.meta === "object" ? x.meta : {} };
+  return { records, plays, prefs, meta: x.meta && typeof x.meta === "object" ? x.meta : {}, apple: x.apple };
 }
 export function applyBackup(b: ReturnType<typeof validateBackup>) {
   S.records = b.records; S.plays = b.plays;
   S.prefs = { ...defPrefs(), ...b.prefs, username: b.prefs.username ?? S.prefs.username };
   S.meta = { ...defMeta(), ...b.meta };
-  saveRecs(); savePlays(); dbSet("prefs", S.prefs); saveMeta(); emit();
+  saveRecs(); savePlays(); dbSet("prefs", S.prefs); saveMeta(); void setAppleCache(b.apple); emit();
 }
 export async function wipeAll() {
   S.records = []; S.plays = []; S.prefs = defPrefs(); S.meta = defMeta(); S.token = "";
-  await Promise.all([dbDel("collection"), dbDel("plays"), dbDel("prefs"), dbDel("meta"), dbDel("auth")]);
+  await Promise.all([dbDel("collection"), dbDel("plays"), dbDel("prefs"), dbDel("meta"), dbDel("auth"), wipeApple()]);
   try { await caches.delete(COVER_CACHE); } catch { /* nada */ }
   emit();
 }

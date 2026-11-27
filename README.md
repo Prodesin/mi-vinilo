@@ -29,10 +29,14 @@ Tras volver a sincronizar se conserva el historial de escuchas, y los discos que
 
 Safari › Compartir › **«Añadir a pantalla de inicio»**.
 
+## Abrir en Apple Music
+
+En la ficha de cada disco (y en «Al azar») el botón **Abrir en Apple Music** busca el álbum en la API pública de iTunes Search (sin cuenta ni claves; `country=es`) la primera vez que abres la ficha, con como mucho una petición por segundo y 8 s de timeout. Se elige el resultado que mejor coincide en artista y título (ignorando tildes, «The», «(2)», «Deluxe», «(Remastered)»…). Si no hay coincidencia clara, o falla la red, el botón lleva a una búsqueda en Apple Music y lo indica con el subtítulo «Buscar en Apple Music». El resultado se guarda en IndexedDB (las búsquedas se reintentan pasados 30 días), entra en la copia JSON y «Borrar todos los datos» lo limpia. En iPhone/iPad se abre directamente la app Música (`music://`), con la web como respaldo.
+
 ## Copia de seguridad y privacidad
 
 - Todo se guarda en el dispositivo (IndexedDB). No hay servidor, cuentas, analítica ni rastreadores ni CDNs.
-- La app solo se conecta a `api.discogs.com` (sincronizar) e `i.discogs.com` (portadas).
+- La app solo se conecta a `api.discogs.com` (sincronizar), `i.discogs.com` (portadas) e `itunes.apple.com` (enlace a Apple Music; solo se envían artista y título).
 - **El token solo se guarda en este dispositivo**: se envía en la cabecera `Authorization`, nunca en la URL, y **no** entra en la copia JSON exportada. «Olvidar token» lo borra.
 - «Exportar copia» genera `mi-vinilo-AAAA-MM-DD.json` (colección, escuchas y preferencias); «Importar copia» valida el archivo y pide confirmación.
 - Las portadas no se pueden leer por CORS, así que se muestran como `<img>` y el service worker las guarda (respuestas opacas) en una caché aparte con límite de 1.200 entradas. «Descargar portadas para usar sin conexión» las precarga poco a poco.

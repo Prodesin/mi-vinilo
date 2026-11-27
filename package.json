@@ -1,6 +1,6 @@
 {
   "name": "mi-vinilo",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "private": true,
   "description": "Mi vinilo: PWA estática para consultar la colección de Discogs y apuntar escuchas.",
   "type": "module",
